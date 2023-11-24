@@ -17,19 +17,7 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 | ---- | ------ | ----------- | ---- |
 |      |        |             |      |
 
-## Documentation Enhancements
-
-| Link | Topic | Description | Contributor |
-| ---- | ------ | ----------- | ---- |
-|      |        |             |      |
-
-## Bug Fixes
-
-| Link | Topic | Description | Contributor |
-| ---- | ------ | ----------- | ---- |
-|      |        |             |      |
-
-## Boilerplate Code
+## Developer Resources
 
 | Link | Topic | Description | Contributor |
 | ---- | ------ | ----------- | ---- |

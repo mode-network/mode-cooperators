@@ -3,7 +3,7 @@ name: Task Proposal Template
 about: This is a template for proposing tasks to the Mode Cooperators Program.
 title: "[TASK] Example Title"
 labels: Awaiting Approval
-assignees: ''
+assignees: fede2442, joshuanwankwo
 
 ---
 

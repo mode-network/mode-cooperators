@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-This guide is for Mode Tech-Cooperators. We appreciate your efforts in enhancing the Mode ecosystem.
+This guide is for Mode Tech-Cooperators. We appreciate your efforts in enhancing the Mode ecosystem
 
 Here's how it works:
 

@@ -4,8 +4,10 @@
 
 
 
-# Mode Tech Cooperators
-Adding this text for testing purpose 
+# Mode Tech Cooperators  
+#Testing second task
+#Add link to finished work and description
+
 
 This repository is established as a central location to showcase the valuable contributions made by participants in the Mode Tech-Cooperators program. This could be in the form of enhancing documentation, creating helpful content in various forms, contributing to developer resources, and more.
 

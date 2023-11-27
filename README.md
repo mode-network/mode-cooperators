@@ -8,6 +8,7 @@
 #Testing second task
 #Add link to finished work and description
 
+
 This repository is established as a central location to showcase the valuable contributions made by participants in the Mode Tech-Cooperators program. This could be in the form of enhancing documentation, creating helpful content in various forms, contributing to developer resources, and more.
 
 Check out our [contributing guide](https://github.com/mode-network/mode-cooperators/blob/main/contributing.md) for more detailed instructions on how to contribute. The [Issues](https://github.com/mode-network/mode-cooperators/issues) tab will have some more ideas you can start working on.

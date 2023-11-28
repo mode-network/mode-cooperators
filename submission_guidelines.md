@@ -8,8 +8,9 @@ These guidelines are designed to help you create content that is not only engagi
 
 Please review these guidelines carefully before submitting your content. 
 
-Thanks for your submission!
-
+### Resources:
+- [Mode Brand Kit](https://github.com/mode-network/brandkit#brand-pillars)
+  
 ### General rules
 - **Alignment with Mode's Mission and Values**: All content should align with the overarching goals and values of Mode and the cooperators.
 - **Diversity and Inclusion**: Content should be inclusive and respectful of diverse audiences, we want everyone to feel comfortable cooperating with Mode <3.
@@ -62,3 +63,4 @@ Thanks for your submission!
 - **Interactivity**: Encourage audience participation and interaction. Think of clever ways for people to participate while in your events. Giveaways to the top liked tweet, top RT, stuff like that.
 - **Follow-up**: Post-event summary or highlights for those who couldn't attend. Try to have a summary or some pictures from the event. We love sharing pictures!
 
+Thank you for your submissions! Any questions you may have, you can drop them in the discord.

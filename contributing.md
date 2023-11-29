@@ -1,38 +1,51 @@
 # Contribution Guidelines
 
-This guide is for Mode Tech-Cooperators. We appreciate your efforts in enhancing the Mode ecosystem.
+This guide is for Mode Tech-Cooperators. We appreciate your efforts in enhancing the Mode ecosystem. This repository is the place where all tech cooperators will share their contribuitions and work together. This document explains the correct way of contributing to the program.
 
-Here's how it works:
+Here's a high level overview of the contribuition process:
 
-- Add your suggestions to the [Issues tab](https://github.com/).
-- We'll review and either add it to the [Task Board](taskboard) or decline it.
-- You get to pick a task you want to start working on from the [Task Board](taskboard).
-- Raise a PR once done following the PR template.
-- We'll review and either give you feedback or approve your submision.
+- Pick an issue you want to solve from the [Issues tab](https://github.com/mode-network/mode-cooperators/issues)
+- Fork the repository
+- Create a branch for the task on your forked repository
+- Work on the issue
+- Sync the forked repo with the main branch of the base repo. Follow this guide: [How to sync a forked repo?](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
+- Create a pull request (PR) to merge your branch into main and please tag 
+- We review your PR
+- Approve or request for changes
 
-## Issues
+## How to Pick a Task
+Before you start working on any task please make sure that the task has been assigned to you, this helps others understand what is being worked on so they don't pick it up again. You can start working before being assigned but just know that until you are assigned to that task, it's not officially yours.
 
-Once you start working on a task, please let others know by assigning the task to yourlself, this helps others understand what is being worked on so they don't pick it again. 
+- Check out the [Issues tab]([https://github.com/mode-network/mode-cooperators/issues](https://github.com/mode-network/mode-cooperators/issues?q=is%3Aopen+is%3Aissue+label%3AApproved)) for a list of approved issues. Note that there is a filter to check for "Approved" tags.
+- Comment on the issue you'd like to work on and tag either @joshuanwankwo or @fede2442.
+  - "I would like to work on this issue @joshuanwankwo @fede2442"
+- One of us will assign the task to you and change the status of the task to "In Progress".
+- Have a unique idea you want to propose? Go ahead and open a new issue and request for review from @joshuanwankwo and @fede2442
 
-- Check out the [Issues tab](https://github.com/) for some contribution suggestions made by anyone including Mode's core team.
-- If an issue gets added to the [Task Board](taskboard), that means the Mode team would love for this Issue to be worked on. 
-- Have a unique idea? Go ahead and open a new issue and request for review from @joshfrommode and @fede
+## How to work on a task
+Before you start working on the task assigned to you, please make sure you do the following:
 
-## Submitting a PR
+- Fork the [Cooperators repo](link).
+- In the forked repo, create a branch and give the branch a name that suits the task and that is descriptive.
+- Work on your task and when you are done, raise a PR.
 
-When you're ready to submit, fill out the PR template, which includes:
+## How to Submit a contribuition (or PR)
+When you're done with your task and ready to submit, fill out the PR template, which includes:
 
 - Content name
 - Content type
 - Content link
-- Comments about your submission
+- Brief description of the task you just did
+- Please make sure to sync your branch with the base repo before raising a PR
+- Also please make sure you're comparing your new branch with the main branch in the base repo
+- After you raise a PR, please go to the issue of the task you just worked on and comment that your PR is ready for review, tag the pull request you just raised for that task in the comment section and then tag @joshuanwankwo and @fede2442
+  - "I have completed the task and it's ready for your review @joshuanwankwo @fede2442"
 
 ## Approval Process
-
 We want to keep quality high so here's how approval works:
 
-- After you open a PR, we'll mark it with `In Review`.
-- We'll check your content, perhaps ask for changes, and aim to get back to you within 5 days.
-- Once your contribution gets the thumbs up, it's merged.
+- We'll check your content, perhaps ask for changes, and aim to get back to you within 3 days.
+- Once your contribution gets the thumbs up, it's merged. If your PR was merged, it means we accepted your contribuition as quality work !
 
-Remember, quality of work is key. Thanks for making Mode even better!
+
+Thanks for making Mode even better!

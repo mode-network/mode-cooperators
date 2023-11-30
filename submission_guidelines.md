@@ -4,7 +4,7 @@ This document serves as a comprehensive guide for the tech cooperators around th
 
 Our goal is to ensure consistency, quality, and alignment with Mode's objectives.
 
-These guidelines are designed to help you create content that is not only engaging and informative but also meets the public's standard.
+These guidelines are designed to help you create content that is not only engaging and informative but also meets the public's standards.
 
 Please review these guidelines carefully before submitting your content. 
 
@@ -16,7 +16,7 @@ Please review these guidelines carefully before submitting your content.
 - **Diversity and Inclusion**: Content should be inclusive and respectful of diverse audiences, we want everyone to feel comfortable cooperating with Mode <3.
 - **Technical Accuracy**: Content must be factually correct and up-to-date. If you find any interesting metric, please save the link of the source and link it please :)
 - **Originality**: Must be original content, not published elsewhere. It's ok to use AI tools to help you with the content, but use them wisely ;)
-- **Add your own touch**: These guidelines are general enough for you to add your own style to the pieces of content you'll be creating. Some specific cases might not exactly follow some of these criteria and it may be approved anyways.
+- **Add your own touch**: These guidelines are general enough for you to add your own style to the pieces of content you'll be creating. Some specific cases might not exactly follow some of these criteria and it may be approved anyway.
   
 ### 1. Blog Article
 - **Length and Depth**: Minimum of 800 words, ensuring in-depth coverage of the topic.
@@ -35,6 +35,8 @@ Please review these guidelines carefully before submitting your content.
 - **Video and Audio Quality**: High-resolution video (1080p minimum) and clear audio without background noise.
 - **Editing**: Well-edited, doesn't have to be professional. [Loom](https://www.loom.com/) or similar tools are super welcomed!
 - **Branding**: Include Mode branding elements where appropriate.
+- **Background**: Minimal or well-organized/non-distractive background.
+
 
 ### 4. Short Form Video (TikTok, Shorts, Reels)
 - **Conciseness**: Deliver the message effectively within the time limit.

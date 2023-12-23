@@ -17,7 +17,7 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 
 | Link | Topic | Description | Contributor |
 | ---- | ------ | ----------- | ---- |
-|      |        |             |      |
+|  [Mode 101: Workshop](https://loogi.notion.site/Mode-101-Introduction-to-the-Mode-Network-83375f4054114728b81bca0dec13bf23?pvs=25)    |   Mode 101: Introduction to Mode     |     I organized a virtual workshop to teach the audience how to register their application smart contract on the Mode Network and how to check if a smart contract is registered on the SFS.        |  Joshua Omobola    |
 
 ## Developer Resources
 

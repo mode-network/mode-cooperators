@@ -17,7 +17,7 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 
 | Link | Topic | Description | Contributor |
 | ---- | ------ | ----------- | ---- |
-|      |        |             |      |
+|  [X Space](https://loogi.notion.site/Mode-Space-bc068568121d4159b9bc52038ab7f420?pvs=74)    |    Mode Co-Operators Meetup    |     A X (fka Twitter) space I organized in collaboration with Hermes. The agenda was to gather and engage the cooperators. We also seized the opportunity to encourage the devs to participate in the Mode Hackathon and non-devs to push out more stickers and memes for the cooperator's challenge in the community.        |   Joshua Omobola   |
 
 ## Developer Resources
 

@@ -17,12 +17,12 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 
 | Link | Topic | Description | Contributor |
 | ---- | ------ | ----------- | ---- |
-| <https://mode-mastermind.vercel.app/> | dApp  | Module for playful education: Mode Mastermind | wolfcito    |
+|      |        |             |      |
 
 ## Developer Resources
 
 | Link | Topic | Description | Contributor |
 | ---- | ------ | ----------- | ---- |
-|      |        |             |      |
+| <https://mode-mastermind.vercel.app/> | dApp  | Module for playful education: Mode Mastermind | wolfcito |
 
 Let's collaborate and together, make Mode's ecosystem more versatile, user-friendly, and secure.

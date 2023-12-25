@@ -16,8 +16,8 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 ## Content Contributions
 
 | Link | Topic | Description | Contributor |
-| ---- | ------ | ----------- | ---- |
-|      |        |             |      |
+| ---- | ------ | ----------- | ---------- |
+| [Google Docs Link](https://docs.google.com/document/d/1dG6q3i3A-iMzYjnLDFi4chAj_DGrs_Nz9ao4gpVM-E4/edit?usp=sharing)   |    How To Register a Smart Contract to the SFS with Thirdweb Deployment    |     In this tutorial, you will learn how to register a smart contract to Mode Network’s SFS   (Sequencer Fee Sharing) Contract while deploying with thirdweb.        |      Revealer      |
 
 ## Developer Resources
 

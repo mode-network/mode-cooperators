@@ -16,8 +16,9 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 ## Content Contributions
 
 | Link | Topic | Description | Contributor |
-| ---- | ------ | ----------- | ---- |
-|      |        |             |      |
+| ---- | ------ | ----------- | ---------- |
+| [Google Docs Link](https://docs.google.com/document/d/1fDmztAff7IxXwPZEkDOhYxivMwqZdhkAN7AHCQ2m4VE/edit?usp=sharing)   |    How To Register a Smart Contract to the SFS with Hardhat  |     In this tutorial, you will learn how to register a smart contract to Mode Network’s SFS (Sequencer Fee Sharing) Contract while deploying with hardhat.        |      Revealer      |
+
 
 ## Developer Resources
 

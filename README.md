@@ -17,7 +17,7 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 
 | Link | Topic | Description | Contributor |
 | ---- | ------ | ----------- | ---- |
-|      |        |             |      |
+|[ Notion Event Link    ](https://www.notion.so/gordian-etim/GORDIAN-ETIM-4e8cefef212846e3a673348cc01a5ca4)|Introduction to Blockchain & Mode Network [ An Ethereum Layer 2]| Organized an In-person Mode Event to create awareness on Hackathon and Mode Network | Gordian Etim |
 
 ## Developer Resources
 

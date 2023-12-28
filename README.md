@@ -16,6 +16,7 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 ## Content Contributions
 
 | Link | Topic | Description | Contributor |
+| ---- | ------ | ----------- | ---- |
 | [Mode 101: Workshop](https://loogi.notion.site/Mode-101-Introduction-to-the-Mode-Network-83375f4054114728b81bca0dec13bf23?pvs=25)    |   Mode 101: Introduction to Mode     |     I organized a virtual workshop to teach the audience how to register their application smart contract on the Mode Network and how to check if a smart contract is registered on the SFS.        |  Joshua Omobola    |
 | [Google Docs Link](https://docs.google.com/document/d/1dG6q3i3A-iMzYjnLDFi4chAj_DGrs_Nz9ao4gpVM-E4/edit?usp=sharing)   |    How To Register a Smart Contract to the SFS with Thirdweb Deployment    |     In this tutorial, you will learn how to register a smart contract to Mode Network’s SFS   (Sequencer Fee Sharing) Contract while deploying with thirdweb.        |      Revealer      |
 | [Google Docs Link](https://docs.google.com/document/d/1fDmztAff7IxXwPZEkDOhYxivMwqZdhkAN7AHCQ2m4VE/edit?usp=sharing)   |    How To Register a Smart Contract to the SFS with Hardhat  |     In this tutorial, you will learn how to register a smart contract to Mode Network’s SFS (Sequencer Fee Sharing) Contract while deploying with hardhat.        |      Revealer      |

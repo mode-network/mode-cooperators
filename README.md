@@ -16,8 +16,8 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 ## Content Contributions
 
 | Link | Topic | Description | Contributor |
-| ---- | ------ | ----------- | ---- |
-|      |        |             |      |
+| ---- | ------ | ----------- | ---------- |
+| [Google Docs Link](https://docs.google.com/document/d/16xlm698zMhxbEJ0ULCa6LHruDScrk2zeOjL9jSbeHh4/edit?usp=sharing)   |    How To Assign a Smart Contract to an Existing SFS NFT with Foundry    |     In this tutorial, you’ll learn how to register our smart contract to the Mode SFS contract by assigning our contract to an existing SFS NFT with Foundry       |      Revealer      |
 
 ## Developer Resources
 

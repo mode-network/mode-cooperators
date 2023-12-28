@@ -18,6 +18,8 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 | Link | Topic | Description | Contributor |
 | ---- | ------ | ----------- | ---------- |
 | [Google Docs Link](https://docs.google.com/document/d/1dG6q3i3A-iMzYjnLDFi4chAj_DGrs_Nz9ao4gpVM-E4/edit?usp=sharing)   |    How To Register a Smart Contract to the SFS with Thirdweb Deployment    |     In this tutorial, you will learn how to register a smart contract to Mode Network’s SFS   (Sequencer Fee Sharing) Contract while deploying with thirdweb.        |      Revealer      |
+| [Google Docs Link](https://docs.google.com/document/d/1fDmztAff7IxXwPZEkDOhYxivMwqZdhkAN7AHCQ2m4VE/edit?usp=sharing)   |    How To Register a Smart Contract to the SFS with Hardhat  |     In this tutorial, you will learn how to register a smart contract to Mode Network’s SFS (Sequencer Fee Sharing) Contract while deploying with hardhat.        |      Revealer      |
+| [Google Docs Link](https://docs.google.com/document/d/16xlm698zMhxbEJ0ULCa6LHruDScrk2zeOjL9jSbeHh4/edit?usp=sharing)   |    How To Assign a Smart Contract to an Existing SFS NFT with Foundry    |     In this tutorial, you’ll learn how to register our smart contract to the Mode SFS contract by assigning our contract to an existing SFS NFT with Foundry       |      Revealer      |
 
 ## Developer Resources
 

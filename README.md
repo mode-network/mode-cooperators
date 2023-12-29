@@ -27,6 +27,8 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 
 | Link | Topic | Description | Contributor |
 | ---- | ------ | ----------- | ---- |
-|      |        |             |      |
+| [Mode Mastermind](https://mode-mastermind.vercel.app) | dApp  | Module for playful education: Mode Mastermind | @wolfcito, @kohasummons |
+| [Community donation](https://community-donations.vercel.app) | dApp  | Module for community donations to introduce people to the Mode ecosystem | wolfcito |
+
 
 Let's collaborate and together, make Mode's ecosystem more versatile, user-friendly, and secure.

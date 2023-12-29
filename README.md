@@ -24,6 +24,7 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 | [Google Docs Link](https://docs.google.com/document/d/1fDmztAff7IxXwPZEkDOhYxivMwqZdhkAN7AHCQ2m4VE/edit?usp=sharing)   |    How To Register a Smart Contract to the SFS with Hardhat  |     In this tutorial, you will learn how to register a smart contract to Mode Network’s SFS (Sequencer Fee Sharing) Contract while deploying with hardhat.        |      Revealer      |
 | [Google Docs Link](https://docs.google.com/document/d/16xlm698zMhxbEJ0ULCa6LHruDScrk2zeOjL9jSbeHh4/edit?usp=sharing)   |    How To Assign a Smart Contract to an Existing SFS NFT with Foundry    |     In this tutorial, you’ll learn how to register our smart contract to the Mode SFS contract by assigning our contract to an existing SFS NFT with Foundry       |      Revealer      |
 | [Mode Docs Link](https://docs.mode.network/build-on-mode/tutorials/sfs-sequencer-fee-sharing/sfs-assign-a-contract-to-an-existing-nft-hardhat)   |    How To Assign a smart contract to an existing SFS NFT with Hardhat    |     In this tutorial, you’ll learn how to register our smart contract to the Mode SFS contract by assigning our contract to an existing SFS NFT with Hardhat       |      Ifedili      |
+| [Link](www.google.com) | Deployement | This is an article on how to deploy | Joshua | 29/12/23 |
 
 ## Developer Resources
 

@@ -16,8 +16,8 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 ## Content Contributions
 
 | Link | Topic | Description | Contributor |
-| ---- | ------ | ----------- | ---- |
-|      |        |             |      |
+| ---- | ------ | ----------- | ---------- |
+| [Google Docs Link](https://docs.google.com/document/d/1Ywe832FIs-c9O79PDnZXtXi2vru-41eA6LgPxCGk898/edit?usp=sharing)   |    How To Register a Smart Contract to the SFS with Foundry    |     In this tutorial, you’ll learn how to register our smart contract to the Mode SFS contract with Foundry.        |      Revealer      |                                                              |                         |                            |             |
 
 ## Developer Resources
 

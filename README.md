@@ -17,7 +17,8 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 
 | Link | Topic | Description | Contributor |
 | ---- | ------ | ----------- | ---- |
-|      |        |             |      |
+| [Google Docs Link](https://docs.google.com/document/d/1ra2zQZBC6SWBTv7Rivb4LMjjCCxZnHeMRImoMKQivRU/edit?usp=sharing)   |   A Dive into Optimism Bedrock: The Foundation for Mode’s on-chain co-operation.    |     In this article, we will be diving into Optimism bedrock, which is a major upgrade to the Optimism blockchain     |      Revealer      |
+
 
 ## Developer Resources
 

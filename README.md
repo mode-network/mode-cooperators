@@ -17,7 +17,7 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 
 | Link | Topic | Description | Contributor |
 | ---- | ------ | ----------- | ---- |
-|      |        |             |      |
+| [Google Docs Link](https://docs.google.com/document/d/1dd9jPh6bQ4FhHWbUGzGp-5ozbJ3x79i3cOzaPDITSvA/edit?usp=sharing)   |    How To deploy with Foundry on mode - Codebase Correction    |     I corrected the codebase and added a ramapping.txt file so that forge can see the openzeppelin dependency      |      Revealer      |
 
 ## Developer Resources
 

@@ -27,6 +27,8 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 | [X Space](https://x.com/HGoodgod/status/1735739003905708330?s=20) | Mode Co-Operators Meetup | We made an X Space to offer an opportunity for the Cooperators to get to know each other and to attract more members to our community | Hermes Goodgod | 12.15.2023 |
 | [MODE Portuguese Workshop](https://lu.ma/5sfjjtun) | MODE x BanklessBR Workshop | I have organized and scheduled a MODE Workshop with the BanklessBR Community. We will use the opportunity to explain the SFS feature and everything MODE is planing to attract more people to our ecosystem. | Hermes Goodgod | 01.04.2024 |
 | [MODE's SFS & L2 Sequencers High-level Explanatory video](https://drive.google.com/file/d/1DGQkeXzw9b-PYzvY-eWRxYsUvfjXkCNY/view?usp=sharing) | High Level Explantion on SFS works & L2 Sequencers | This video provides an explanation of how Mode SFS works, along with a detailed, high-level explanation of L2 sequencers. | Olayinka Oshidipe | 01.03.2024 |
+| [Youtube link](https://youtu.be/kQmBjcrBGZs?si=_CjiBqVe_9tPsr8w) | Assign a smart contract to an existing SFS NFT with Hardhat | This video explains how to register a smart contract to the Mode SFS contract by assigning our contract to an existing SFS NFT with Hardhat. | Ifedili |
+
 
 ## Developer Resources
 

@@ -31,15 +31,17 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 | [X Space](https://x.com/HGoodgod/status/1749824401720430935?s=20) | My Mode - Community Space | Episode 4 of the Space to get the community together and talk about meaningful subjects in and out the web3 | Hermes Goodgod | 01.23.2024 |
 | [MODE's SFS & L2 Sequencers High-level Explanatory video](https://drive.google.com/file/d/1DGQkeXzw9b-PYzvY-eWRxYsUvfjXkCNY/view?usp=sharing) | High Level Explantion on SFS works & L2 Sequencers | This video provides an explanation of how Mode SFS works, along with a detailed, high-level explanation of L2 sequencers. | Olayinka Oshidipe | 01.03.2024 |
 | [Youtube link](https://youtu.be/kQmBjcrBGZs?si=_CjiBqVe_9tPsr8w) | Assign a smart contract to an existing SFS NFT with Hardhat | This video explains how to register a smart contract to the Mode SFS contract by assigning our contract to an existing SFS NFT with Hardhat. | Ifedili |
-| [Google Docs Link](https://docs.google.com/document/d/1ra2zQZBC6SWBTv7Rivb4LMjjCCxZnHeMRImoMKQivRU/edit?usp=sharing)   |   A Dive into Optimism Bedrock: The Foundation for Mode’s on-chain co-operation.    |     In this article, we will be diving into Optimism bedrock, which is a major upgrade to the Optimism blockchain     |      Revealer      | 01.10.24
-
+| [Google Docs Link](https://docs.google.com/document/d/1ra2zQZBC6SWBTv7Rivb4LMjjCCxZnHeMRImoMKQivRU/edit?usp=sharing)   |   A Dive into Optimism Bedrock: The Foundation for Mode’s on-chain co-operation.    |     In this article, we will be diving into Optimism bedrock, which is a major upgrade to the Optimism blockchain     |      Revealer      | 01.10.24 |
+| [Youtube link](https://www.youtube.com/watch?v=mzz1P-K1peA)  | Mode Spray Spanish Showcase | Mode Spray showcase with CTA for Builders to the development ecosystem in Spanish.  | @wolfcito  | 06.02.2024 |
+| [Youtube link](https://www.youtube.com/watch?v=pw_QVDLGMW8)  | Mode Spray English Showcase | Mode Spray showcase with CTA for Builders to the development ecosystem in English.  | @wolfcito  | 06.02.2024 |
 
 
 ## Developer Resources
 
 | Link | Topic | Description | Contributor | Date Added |
 | ---- | ------ | ----------- | ---- | ---- |
-| [Mode Mastermind](https://mode-mastermind.vercel.app) | dApp  | Module for playful education: Mode Mastermind | @wolfcito, @kohasummons | 12/29/2023 |
-
+| [Mode Mastermind](https://mode-mastermind.vercel.app) | dApp  | Module for playful education: Mode Mastermind | @wolfcito, @kohasummons | 12.29.2023 |
+| [Mode Spray ETH](https://noisy-fish-billions.on-fleek.app) | dApp  | Module for simplifies the process of sending ETH amounts to ETH addresses on the Mode Network with ease and efficiency | @wolfcito, @kohasummons | 06.02.2024 |
+| [Mode Spray ETH repo](https://github.com/wolfcito/mode-spray) | repository  | Open-source code open to community contributions under review by at least 1 tech-cooperator | @wolfcito, @kohasummons | 06.02.2024 |
 
 Let's collaborate and together, make Mode's ecosystem more versatile, user-friendly, and secure.

@@ -15,6 +15,7 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 
 ## Content Contributions
 
+
 | Link | Topic | Description | Contributor | Date Added |
 | ---- | ------ | ----------- | ---- | ---- |
 |  [X Space](https://loogi.notion.site/Mode-Space-bc068568121d4159b9bc52038ab7f420?pvs=74)    |    Mode Co-Operators Meetup    |     A X (fka Twitter) space I organized in collaboration with Hermes. The agenda was to gather and engage the cooperators. We also seized the opportunity to encourage the devs to participate in the Mode Hackathon and non-devs to push out more stickers and memes for the cooperator's challenge in the community.        |   Joshua Omobola   | 
@@ -36,6 +37,7 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 | [Workshop](https://loogi.notion.site/Mode-Taller-Introduccion-A-Mode-SFS-d1c35b1f6a88450e) | Mode Workshop | Koha et Wolfcito held a workshop to teach people about Mode and its Unique Features with the Spanish community and there was also a session delivered in English. I organized a virtual workshop to teach the audience how to register their application smart contract on the Mode Network and how to check if a smart contract is registered on the SFS.        |  Joshua Omobola, @wolfcito    |
 | [Youtube link](https://loogi.notion.site/How-to-Register-Smart-contract-to-the-SFS-using-Hardhat-bfdb929e139e42208adb15436ed9422b?pvs=4) | Register a smart contract to the SFS with Hardhat | A Video tutorial showing how to register a smart contract to the Mode Network using hardhat. | Joshua Omobola |
 | [Youtube link](https://loogi.notion.site/Mode-Mainnet-Promotional-Video-7a4c0ebbdfbb4955b919ac0de3acfd67?pvs=4) | Video Reel for the Mode Mainnet Launch | A Video reel promoting the Mainnet Launch and encouraging folks to participate | Joshua Omobola |
+| [Google Docs Link](https://docs.google.com/document/d/1Ywe832FIs-c9O79PDnZXtXi2vru-41eA6LgPxCGk898/edit?usp=sharing)   |    How To Register a Smart Contract to the SFS with Foundry    |     In this tutorial, you’ll learn how to register our smart contract to the Mode SFS contract with Foundry.        |      Revealer      |                                                              |                         |                            |             |
 
 ## Developer Resources
 

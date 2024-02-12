@@ -32,8 +32,10 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 | [MODE's SFS & L2 Sequencers High-level Explanatory video](https://drive.google.com/file/d/1DGQkeXzw9b-PYzvY-eWRxYsUvfjXkCNY/view?usp=sharing) | High Level Explantion on SFS works & L2 Sequencers | This video provides an explanation of how Mode SFS works, along with a detailed, high-level explanation of L2 sequencers. | Olayinka Oshidipe | 01.03.2024 |
 | [Youtube link](https://youtu.be/kQmBjcrBGZs?si=_CjiBqVe_9tPsr8w) | Assign a smart contract to an existing SFS NFT with Hardhat | This video explains how to register a smart contract to the Mode SFS contract by assigning our contract to an existing SFS NFT with Hardhat. | Ifedili |
 | [Google Docs Link](https://docs.google.com/document/d/1ra2zQZBC6SWBTv7Rivb4LMjjCCxZnHeMRImoMKQivRU/edit?usp=sharing)   |   A Dive into Optimism Bedrock: The Foundation for Mode’s on-chain co-operation.    |     In this article, we will be diving into Optimism bedrock, which is a major upgrade to the Optimism blockchain     |      Revealer      | 01.10.24
-
-
+|  [X Space](https://loogi.notion.site/Mode-Mainnet-Launch-AMA-Twitter-Space-17f50a5bb46a4d9a91dc8e7fa93735e7?pvs=4)    |   Mode Mainnet Launch AMA (Twitter Space)    |     An X (fka Twitter) space I organized during the heat of the Mainnet launch to answer questions and help give clarity to how to participate in the Campaign.        |   Joshua Omobola   | 
+| [Workshop](https://loogi.notion.site/Mode-Taller-Introduccion-A-Mode-SFS-d1c35b1f6a88450e) | Mode Workshop | Koha et Wolfcito held a workshop to teach people about Mode and its Unique Features with the Spanish community and there was also a session delivered in English. I organized a virtual workshop to teach the audience how to register their application smart contract on the Mode Network and how to check if a smart contract is registered on the SFS.        |  Joshua Omobola, @wolfcito    |
+| [Youtube link](https://loogi.notion.site/How-to-Register-Smart-contract-to-the-SFS-using-Hardhat-bfdb929e139e42208adb15436ed9422b?pvs=4) | Register a smart contract to the SFS with Hardhat | A Video tutorial showing how to register a smart contract to the Mode Network using hardhat. | Joshua Omobola |
+| [Youtube link](https://loogi.notion.site/Mode-Mainnet-Promotional-Video-7a4c0ebbdfbb4955b919ac0de3acfd67?pvs=4) | Video Reel for the Mode Mainnet Launch | A Video reel promoting the Mainnet Launch and encouraging folks to participate | Joshua Omobola |
 
 ## Developer Resources
 

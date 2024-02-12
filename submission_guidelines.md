@@ -10,6 +10,7 @@ Please review these guidelines carefully before submitting your content.
 
 ### Resources:
 - [Mode Brand Kit](https://github.com/mode-network/brandkit#brand-pillars)
+- [Mode Deck Template](https://docs.google.com/presentation/d/1jaWnbFD_XA1HtMdA9qXeqcmXS_W_Q7IN/edit?usp=drive_link&ouid=104495944304466903530&rtpof=true&sd=true)
   
 ### General rules
 - **Alignment with Mode's Mission and Values**: All content should align with the overarching goals and values of Mode and the cooperators.

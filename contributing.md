@@ -22,6 +22,42 @@ Before you start working on any task please make sure that the task has been ass
 - One of us will assign the task to you and change the status of the task to "In Progress".
 - Have a unique idea you want to propose? Go ahead and open a new issue and request for review from @joshuanwankwo and @fede2442
 
+## Scoring System
+```
+Blog Article: 15 Points
+Rationale: Requires research, writing skills, and attention to detail in formatting and language.
+```
+
+```
+Demo App: 25 Points
+Rationale: Involves coding, testing, documentation, and UI design, which is a significant investment in time and skill.
+```
+
+```
+Video Under 15 Minutes: 20 Points
+Rationale: Needs content planning, recording, editing, and ensuring good audio-visual quality.
+```
+
+```
+Short Form Video (TikTok, Shorts, Reels): 10 Points
+Rationale: While shorter, these require creativity and effort to engage in a very limited time frame.
+```
+
+```
+Tweets (Including Short and Long Form): 3 Points
+Rationale: Less time-consuming but requires conciseness and engagement skills.
+```
+
+```
+Twitter Threads: 10 Points
+Rationale: Needs cohesiveness, clarity, and the ability to engage the audience over multiple tweets.
+```
+
+```
+Hosting Online Events (Twitter Spaces, Discord Meetups): 20 Points
+Rationale: Involves planning, promotion, moderation, interactivity, and follow-up, which is quite comprehensive.
+```
+
 ## How to work on a task
 Before you start working on the task assigned to you, please make sure you do the following:
 

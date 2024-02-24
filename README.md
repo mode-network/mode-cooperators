@@ -29,7 +29,10 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 | [X Space](https://twitter.com/i/spaces/1vAGRvYMkbzGl?s=20) | My MODE - Community Space | A Space to get the community together and talk about meaningful subjects in and out the web3 | Hermes Goodgod | 01.03.2024 |
 | [Portuguese Article](https://artigos.banklessbr.com/p/colaboratividade-e-desenvolvimento?r=27w5g1&utm_campaign=post&utm_medium=web). | Article about mode shared with the BanklessBR community | AN article explaining the current stage of MODE and detailing the opportunities that it can offer to who join the community | Hermes Goodgod | 01.10.2024 |
 | [X Space](https://x.com/HGoodgod/status/1749824401720430935?s=20) | My Mode - Community Space | Episode 4 of the Space to get the community together and talk about meaningful subjects in and out the web3 | Hermes Goodgod | 01.23.2024 |
-| [MODE's SFS & L2 Sequencers High-level Explanatory video](https://drive.google.com/file/d/1DGQkeXzw9b-PYzvY-eWRxYsUvfjXkCNY/view?usp=sharing) | High Level Explantion on SFS works & L2 Sequencers | This video provides an explanation of how Mode SFS works, along with a detailed, high-level explanation of L2 sequencers. | Olayinka Oshidipe | 01.03.2024 |
+| [MODE's SFS & L2 Sequencers High-level Explanatory video](https://drive.google.com/file/d/1DGQkeXzw9b-PYzvY-eWRxYsUvfjXkCNY/view?usp=sharing) | High Level Explanation on SFS works & L2 Sequencers | This video provides an explanation of how Mode SFS works, along with a detailed, high-level explanation of L2 sequencers. | Olayinka Oshidipe | 01.03.2024 |
+|[Community X Space](https://x.com/HGoodgod/status/1759971390499836389?s=20) | Making it in web3 | An X Space for the MODE Community to get together and share ideas on how to make it in the web3 | Hermes Goodgod | 02.20.2024 |
+|[Airdrop Video Tutorial 1](https://x.com/HGoodgod/status/1753260135105830932?s=20) | MODE Airdrop | A video approaching the details on how to bridge funds to MODE Network to leverage the airdrop | Hermes Goodgod | 02.02.2024 |
+|[Aidrop Video Tutorial 2](https://x.com/HGoodgod/status/1754007663510196336?s=20) | MODE Airdrop | A vídeo teaching how to interact with the MODE partners to get a better airdrop | Hermes Goodgod | 02.04.2024 |
 
 ## Developer Resources
 

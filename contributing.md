@@ -1,8 +1,8 @@
 # Contribution Guidelines
 
-This guide is for Mode Tech-Cooperators. We appreciate your efforts in enhancing the Mode ecosystem. This repository is the place where all tech cooperators will share their contribuitions and work together. This document explains the correct way of contributing to the program.
+This guide is for Mode Tech-Cooperators. We appreciate your efforts in enhancing the Mode ecosystem. This repository is the place where all tech cooperators will share their contributions and work together. This document explains the correct way of contributing to the program.
 
-Here's a high level overview of the contribuition process:
+Here's a high level overview of the contribution process:
 
 - Pick an issue you want to solve from the [Issues tab](https://github.com/mode-network/mode-cooperators/issues)
 - Fork the repository
@@ -65,7 +65,7 @@ Before you start working on the task assigned to you, please make sure you do th
 - In the forked repo, create a branch and give the branch a name that suits the task and that is descriptive.
 - Work on your task and when you are done, raise a PR.
 
-## How to Submit a contribuition (or PR)
+## How to Submit a contribution (or PR)
 When you're done with your task and ready to submit, fill out the PR template, which includes:
 
 - Content name
@@ -81,7 +81,7 @@ When you're done with your task and ready to submit, fill out the PR template, w
 We want to keep quality high so here's how approval works:
 
 - We'll check your content, perhaps ask for changes, and aim to get back to you within 3 days.
-- Once your contribution gets the thumbs up, it's merged. If your PR was merged, it means we accepted your contribuition as quality work !
+- Once your contribution gets the thumbs up, it's merged. If your PR was merged, it means we accepted your contribution as quality work!
 
 
 Thanks for making Mode even better!

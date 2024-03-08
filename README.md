@@ -39,7 +39,9 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 | [Aidrop Video Tutorial 2](https://x.com/HGoodgod/status/1754007663510196336?s=20) | MODE Airdrop | A vídeo teaching how to interact with the MODE partners to get a better airdrop | Hermes Goodgod | 02.04.2024 |
 | [MODE's SFS & L2 Sequencers High-level Explanatory video](https://drive.google.com/file/d/1DGQkeXzw9b-PYzvY-eWRxYsUvfjXkCNY/view?usp=sharing) | High Level Explantion on SFS works & L2 Sequencers | This video provides an explanation of how Mode SFS works, along with a detailed, high-level explanation of L2 sequencers. | Olayinka Oshidipe | 01.03.2024 |
 | [Youtube link](https://youtu.be/kQmBjcrBGZs?si=_CjiBqVe_9tPsr8w) | Assign a smart contract to an existing SFS NFT with Hardhat | This video explains how to register a smart contract to the Mode SFS contract by assigning our contract to an existing SFS NFT with Hardhat. | Ifedili |
-| [Google Docs Link](https://docs.google.com/document/d/1ra2zQZBC6SWBTv7Rivb4LMjjCCxZnHeMRImoMKQivRU/edit?usp=sharing)   |   A Dive into Optimism Bedrock: The Foundation for Mode’s on-chain co-operation.    |     In this article, we will be diving into Optimism bedrock, which is a major upgrade to the Optimism blockchain     |      Revealer      | 01.10.24
+| [Google Docs Link](https://docs.google.com/document/d/1ra2zQZBC6SWBTv7Rivb4LMjjCCxZnHeMRImoMKQivRU/edit?usp=sharing)   |   A Dive into Optimism Bedrock: The Foundation for Mode’s on-chain co-operation.    |     In this article, we will be diving into Optimism bedrock, which is a major upgrade to the Optimism blockchain     |      Revealer      | 01.10.24 |
+| [Youtube link](https://www.youtube.com/watch?v=mzz1P-K1peA)  | Mode Spray Spanish Showcase | Mode Spray showcase with CTA for Builders to the development ecosystem in Spanish.  | @wolfcito  | 06.02.2024 |
+| [Youtube link](https://www.youtube.com/watch?v=pw_QVDLGMW8)  | Mode Spray English Showcase | Mode Spray showcase with CTA for Builders to the development ecosystem in English.  | @wolfcito  | 06.02.2024 |
 | [X Space](https://loogi.notion.site/Mode-Mainnet-Launch-AMA-Twitter-Space-17f50a5bb46a4d9a91dc8e7fa93735e7?pvs=4)    |   Mode Mainnet Launch AMA (Twitter Space)    |     An X (fka Twitter) space I organized during the heat of the Mainnet launch to answer questions and help give clarity to how to participate in the Campaign.        |   Joshua Omobola   | 
 | [Workshop](https://loogi.notion.site/Mode-Taller-Introduccion-A-Mode-SFS-d1c35b1f6a88450e) | Mode Workshop | Koha et Wolfcito held a workshop to teach people about Mode and its Unique Features with the Spanish community and there was also a session delivered in English. I organized a virtual workshop to teach the audience how to register their application smart contract on the Mode Network and how to check if a smart contract is registered on the SFS.        |  Joshua Omobola, @wolfcito    |
 | [Youtube link](https://loogi.notion.site/How-to-Register-Smart-contract-to-the-SFS-using-Hardhat-bfdb929e139e42208adb15436ed9422b?pvs=4) | Register a smart contract to the SFS with Hardhat | A Video tutorial showing how to register a smart contract to the Mode Network using hardhat. | Joshua Omobola |
@@ -54,11 +56,13 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 | [Verify contracts on Blockscout](https://mode.hashnode.dev/get-developer-role) | How to Verify Smart Contracts on BlockScout with Hardhat |  Article with step-by-step to verify contracts on Blockscout using hardhat. [Docs](https://loogi.notion.site/How-to-Verify-Smart-Contracts-on-BlockScout-with-Hardhat-0e06befd11784e93b09b99b1ecbd3efd?pvs=4) | Joshua Omobola | 02.29.2024 |
 | [Get Mode Developer Role](https://mode.hashnode.dev/get-developer-role) | Awareness about Mode SFS at web3afrika x Scroll_zkp community event (in-person) | Gave a talk about Optimisim RPGF at a Web3 event in my City and hightlighted the grant that Mode was awarded because of it's contribution to the Optimisim Ecosystem vis-a-vis the SFS [Docs](https://loogi.notion.site/Get-the-Developer-Role-on-Mode-Discord-35a894eb803d4069b94dec6106085493?pvs=4) | Joshua Omobola | 02.29.2024 |
 
+
 ## Developer Resources
 
 | Link | Topic | Description | Contributor | Date Added |
 | ---- | ------ | ----------- | ---- | ---- |
-| [Mode Mastermind](https://mode-mastermind.vercel.app) | dApp  | Module for playful education: Mode Mastermind | @wolfcito, @kohasummons | 12/29/2023 |
-
+| [Mode Mastermind](https://mode-mastermind.vercel.app) | dApp  | Module for playful education: Mode Mastermind | @wolfcito, @kohasummons | 12.29.2023 |
+| [Mode Spray ETH](https://noisy-fish-billions.on-fleek.app) | dApp  | Module for simplifies the process of sending ETH amounts to ETH addresses on the Mode Network with ease and efficiency | @wolfcito, @kohasummons | 06.02.2024 |
+| [Mode Spray ETH repo](https://github.com/wolfcito/mode-spray) | repository  | Open-source code open to community contributions under review by at least 1 tech-cooperator | @wolfcito, @kohasummons | 06.02.2024 |
 
 Let's collaborate and together, make Mode's ecosystem more versatile, user-friendly, and secure.
